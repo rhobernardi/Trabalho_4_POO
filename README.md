@@ -21,5 +21,5 @@ Para a execução, basta executar o SupermarketServer.jar na pasta do server que
 
 ----------------------------------
 
-  java -jar SupermarketServer.jar
-  java -jar SupermarketUserApp.jar
+-java -jar SupermarketServer.jar
+-java -jar SupermarketUserApp.jar
